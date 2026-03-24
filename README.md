@@ -97,12 +97,7 @@ This project is a **Gamified Learning Platform** designed to enhance education i
 
 ---
 
-## 📫 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: your-github-link
-
----
 
 ## ⚡ Conclusion
 
