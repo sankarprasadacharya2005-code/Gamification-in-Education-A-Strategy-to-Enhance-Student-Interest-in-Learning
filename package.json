@@ -1,0 +1,14 @@
+{
+    "name": "lab-based-project",
+    "version": "1.0.0",
+    "description": "Unified Frontend and Backend",
+    "scripts": {
+        "start": "cd backend && node server.js",
+        "dev": "concurrently \"cd backend && nodemon server.js\" \"cd frontend && npm run dev\"",
+        "build": "cd frontend && npm run build",
+        "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    }
+}
